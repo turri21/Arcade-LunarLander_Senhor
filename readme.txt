@@ -1,3 +1,8 @@
+-=(LunarLander_Senhor notes)=-
+
+Tested: Working Video 720p, 1080p & Sound
+
+___
 This is a Model of LunarLander hardware adapted from Asteroids by James Sweet.
 
 -- Keyboard players inputs :
